@@ -221,4 +221,6 @@ http://127.0.0.1:7860
 
 # 👨‍💻 Author
 
-Ujjwal M Nath
+Ujjwal Manikya Nath
+
+* Data Science | Machine Learning | Computer Vision
