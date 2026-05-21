@@ -1,0 +1,4 @@
+MODEL_NAME = "csebuetnlp/mT5_multilingual_XLSum"
+MIN_SUMMARY_LENGTH = 30
+NUM_BEAMS = 4
+LENGTH_PENALTY = 2.0
