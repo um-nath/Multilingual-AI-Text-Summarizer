@@ -1,0 +1,8 @@
+gradio==4.44.1
+transformers==4.40.2
+torch
+sentencepiece
+langdetect
+accelerate
+safetensors
+pydantic==2.6.4
